@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Download);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Download">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Download" class="cls-1">
+    <path id="Icon_ionic-md-download" data-name="Icon ionic-md-download" class="cls-2" d="M19.75,10H16.037V4.5H10.463V10H6.75l6.5,6.423Zm-13,8.259V20.1h13V18.264Z" transform="translate(-2.75 -2.5)"/>
+  </g>
+</svg>

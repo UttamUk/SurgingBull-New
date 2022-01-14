@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Gaming);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.171" y1="-0.861" x2="1.332" y2="2.803" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#62cecd"/>
+      <stop offset="0.33" stop-color="#4f9fe7"/>
+      <stop offset="0.675" stop-color="#3a6cf6"/>
+      <stop offset="1" stop-color="#210eb2"/>
+    </linearGradient>
+    <clipPath id="clip-Gaming">
+      <rect width="46" height="46"/>
+    </clipPath>
+  </defs>
+  <g id="Gaming" class="cls-1">
+    <g id="Group_11370" data-name="Group 11370" transform="translate(-702.947 -331.12)">
+      <rect id="Rectangle_2893" data-name="Rectangle 2893" class="cls-2" width="40.567" height="14.26" rx="3.593" transform="translate(705.948 358.998)"/>
+      <path id="Path_1492" data-name="Path 1492" class="cls-2" d="M717.33,357.39h-7.04a3.6,3.6,0,0,1,7.04,0Z"/>
+      <path id="Path_1493" data-name="Path 1493" class="cls-2" d="M733.29,357.39H720.63a6.53,6.53,0,0,1,5.52-4.87v-5.39a6.53,6.53,0,1,1,1.62,0v5.39A6.542,6.542,0,0,1,733.29,357.39Z"/>
+    </g>
+  </g>
+</svg>

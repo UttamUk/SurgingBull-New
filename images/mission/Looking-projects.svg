@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Looking_intoprojects);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.106" y1="-0.154" x2="1.406" y2="2.139" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#62cecd"/>
+      <stop offset="1" stop-color="#210eb2"/>
+    </linearGradient>
+    <clipPath id="clip-Looking_intoprojects">
+      <rect width="46" height="46"/>
+    </clipPath>
+  </defs>
+  <g id="Looking_intoprojects" data-name="Looking intoprojects" class="cls-1">
+    <path id="Icon_material-remove-red-eye" data-name="Icon material-remove-red-eye" class="cls-2" d="M23.045,6.75A23.164,23.164,0,0,0,1.5,21.44a23.144,23.144,0,0,0,43.09,0A23.164,23.164,0,0,0,23.045,6.75Zm0,24.483a9.793,9.793,0,1,1,9.793-9.793A9.8,9.8,0,0,1,23.045,31.233Zm0-15.669a5.876,5.876,0,1,0,5.876,5.876A5.868,5.868,0,0,0,23.045,15.564Z" transform="translate(-0.5 1.25)"/>
+  </g>
+</svg>

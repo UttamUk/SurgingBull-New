@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Telegram);
+      }
+
+      .cls-2 {
+        fill: #565a5c;
+        stroke: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        fill: #ebebeb;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Telegram">
+      <rect width="31" height="31"/>
+    </clipPath>
+  </defs>
+  <g id="Telegram" class="cls-1">
+    <g id="Group_11371" data-name="Group 11371" transform="translate(-5698 -2342)">
+      <path id="path2993" class="cls-2" d="M85.72,108.229c-.907,0-.744-.349-1.07-1.209L82,98.277,98.463,88l1.93.512-1.6,4.371Z" transform="translate(5623.69 2260.681)"/>
+      <path id="path2989" class="cls-3" d="M98,142a1.817,1.817,0,0,0,1.4-.7c.6-.581,8.371-8.138,8.371-8.138L103,132l-4.418,2.79L98,141.766Z" transform="translate(5611.411 2226.912)"/>
+      <path id="path2991" class="cls-4" d="M60.8,88.963l11.254,8.3c1.279.7,2.209.349,2.534-1.186L79.171,74.5c.465-1.883-.721-2.721-1.953-2.162l-26.88,10.37c-1.837.744-1.814,1.767-.326,2.209l6.906,2.162L72.893,77.012c.744-.465,1.442-.209.884.3Z" transform="translate(5649.074 2272.833)"/>
+    </g>
+  </g>
+</svg>
