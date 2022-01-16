@@ -829,7 +829,6 @@ a, button {
 
 .aboutus .about-box {
   position: relative;
-  left: -8%;
   margin-top: 8%;
 }
 
@@ -862,7 +861,7 @@ a, button {
       -ms-flex-align: center;
           align-items: center;
   padding: 2%;
-  bottom: -4%;
+  bottom: -8%;
   right: 5%;
   z-index: 10;
 }
@@ -882,6 +881,15 @@ a, button {
     height: 150px;
     right: 8%;
     bottom: -5%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .aboutus .abt-lft {
+    width: 140px;
+    height: 180px;
+    right: 8%;
+    bottom: -15%;
   }
 }
 
@@ -910,6 +918,13 @@ a, button {
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
+  .aboutus .abt-lft .abt-lft-bx {
+    width: 70px;
+    height: 80px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
   .aboutus .abt-lft .abt-lft-bx {
     width: 70px;
     height: 80px;
@@ -1953,9 +1968,35 @@ footer .copyright {
           animation: clr1 5s linear infinite;
 }
 
+@media (max-width: 575.98px) {
+  .rerest-bull-sliders {
+    margin-top: 8%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .rerest-bull-sliders {
+    margin-top: 8%;
+  }
+}
+
 .swiper {
   width: 280px;
   height: 360px;
+}
+
+@media (max-width: 575.98px) {
+  .swiper {
+    width: 180px;
+    height: 260px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .swiper {
+    width: 200px;
+    height: 280px;
+  }
 }
 
 .swiper-slide {
