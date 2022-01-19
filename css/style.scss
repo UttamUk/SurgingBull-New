@@ -591,17 +591,17 @@ $to-color: #4fe7e7;
         // left: -8%;
         margin-top: 8%;
         // width: 90%;
-        @include lg{
-            left: -28%;
-        }
-        @include xsm{
-            left: 0;
-            // padding-left: 5%;
-        }
-        @include sm{
-            left: 0;
-            // padding-left: 0%;
-        }
+        // @include lg{
+        //     left: -28%;
+        // }
+        // @include xsm{
+        //     left: 0;
+        //     // padding-left: 5%;
+        // }
+        // @include sm{
+        //     left: 0;
+        //     // padding-left: 0%;
+        // }
     }
     .abt-lft{
         position: absolute;

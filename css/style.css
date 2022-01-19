@@ -832,24 +832,6 @@ a, button {
   margin-top: 8%;
 }
 
-@media (min-width: 1600px) and (max-width: 1919.98px) {
-  .aboutus .about-box {
-    left: -28%;
-  }
-}
-
-@media (max-width: 575.98px) {
-  .aboutus .about-box {
-    left: 0;
-  }
-}
-
-@media (min-width: 576px) and (max-width: 767.98px) {
-  .aboutus .about-box {
-    left: 0;
-  }
-}
-
 .aboutus .abt-lft {
   position: absolute;
   width: 200px;
